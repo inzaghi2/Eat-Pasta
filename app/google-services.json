@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "150677660384",
+    "project_id": "food-order-fb974",
+    "storage_bucket": "food-order-fb974.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:150677660384:android:7ad927ca7b2d83d9c6a685",
+        "android_client_info": {
+          "package_name": "com.example.eatpasta"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "150677660384-g2douf0cfqfa1vlo8art3tu0i07i6di0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.eatpasta",
+            "certificate_hash": "d5973f94fd71ba161b49cb1b548eb45d5ab23604"
+          }
+        },
+        {
+          "client_id": "150677660384-vnd29hq9svvjbeetccj827kgp80lksvj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZ-AzyOCX2YyRTLk5UesfbClhxXezdTOM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "150677660384-vnd29hq9svvjbeetccj827kgp80lksvj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
